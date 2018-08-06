@@ -1,2 +1,2 @@
 # Online-shop
-[Web link()](https://gg-my-web.appspot.com/)
+[Web link (All products are for show)](https://gg-my-web.appspot.com/)
